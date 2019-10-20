@@ -5,6 +5,7 @@ import com.godwije.algos.FastSearch;
 
 public class Algorithms {
     public static void main(String[] args) {
+        //Main code
         String test = "I am started a new project";
         BasicStringSearch sch = new BasicStringSearch();
         if(sch.findString(test, "project")){

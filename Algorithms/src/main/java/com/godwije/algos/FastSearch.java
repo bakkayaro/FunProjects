@@ -7,6 +7,7 @@ import java.util.Set;
 //It uses a set to store the strings for fast searching
 public class FastSearch {
     // fast Search is faster
+    // for case 1 its still the same
     private Set<String> set;
     public FastSearch(){
         set=new HashSet<>();
